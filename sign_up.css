@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #b282d3;
+    height: 57px;
+    margin-top: -20px;
+    margin: -8px;
+    padding: 15px;
+}
+.nav{
+    padding: 53px;
+}
+.container1{
+    background-color:#32cfa775 ;
+    height: 555px;
+    margin: -20px;
+}
+.home-title{
+    padding: 50px;
+}
+.form-control{
+    width: 399px;
+    height: 31px;
+    margin:10px;
+    border-radius: 5px;
+    border-color: blueviolet;
+}
+#signupBtn{
+    width: 180px;
+    background-color:#5de999 ;
+}
+#showLoginBtn{
+    margin: 15px;
+}
